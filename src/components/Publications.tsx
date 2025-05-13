@@ -21,7 +21,7 @@ const publications: Publication[] = [
     year: 2024,
     type: 'book',
     url: "https://link.springer.com/book/10.1007/978-3-658-44422-8",
-    coverImage: "CoverBookWebsite.webp"
+    coverImage: "/images/CoverBookWebsite.webp"
   },
   {
     id: 2,
@@ -30,7 +30,7 @@ const publications: Publication[] = [
     year: 2023,
     type: 'article',
     url: "https://www.hsozkult.de/publicationreview/id/reb-133408",
-    coverImage: "coverreviewhsozkult.png"
+    coverImage: "/images/coverreviewhsozkult.png"
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ const publications: Publication[] = [
     year: 2023,
     type: 'article',
     url: "https://journals.ed.ac.uk/himalaya/article/view/8857",
-    coverImage: "coverHIMALAYA421.webp"
+    coverImage: "/images/coverHIMALAYA421.webp"
   },
   {
     id: 4,
@@ -48,7 +48,7 @@ const publications: Publication[] = [
     year: 2021,
     type: 'article',
     url: "https://journals.ed.ac.uk/himalaya/article/view/6591",
-    coverImage: "coverHIMALAYA401.webp"
+    coverImage: "/images/coverHIMALAYA401.webp"
   },
   {
     id: 5,
@@ -57,7 +57,7 @@ const publications: Publication[] = [
     year: 2021,
     type: 'article',
     url: "https://www.bdwi.de/forum/archiv/archiv/11020962.html",
-    coverImage: "ForumWissenschaftCover.jpg"
+    coverImage: "/images/ForumWissenschaftCover.jpg"
   },
   {
     id: 6,
@@ -66,7 +66,7 @@ const publications: Publication[] = [
     year: 2021,
     type: 'article',
     url: "https://edoc.hu-berlin.de/server/api/core/bitstreams/0731d0cd-46eb-438a-975e-9a8fdf1d6bb1/content",
-    coverImage: "SACover.png"
+    coverImage: "/images/SACover.png"
   }
 ];
 
